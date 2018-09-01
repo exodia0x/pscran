@@ -1,0 +1,3 @@
+perl xbot -x 100
+rm -rf bios.txt
+sh beta.sh
